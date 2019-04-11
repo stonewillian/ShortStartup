@@ -3,13 +3,7 @@
 	<group name="开发语言">
 		<button content="PYTHON" enable="true" program="E:\Python\JetBrains\PyCharm Community Edition 2017.2\bin\pycharm64.exe" args="" workdirectory="" />
 		<button content="VS2015" enable="true" program="E:\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe" args="" workdirectory="" />
-		<button content="ECLIPSE" enable="true" program="E:\恒生开发工具\eclipse.exe" args="" workdirectory="" />
-		<button content="UFTDB" enable="true" program="E:\ARESStudio4UFT-win32.x86\studio.exe" args="" workdirectory="" />
-		<button content="DELPHI6" enable="true" program="C:\Program Files (x86)\Borland\Delphi6\Bin\delphi32.exe" args="-np -ns" workdirectory="" />
-		<button content="PLSQL" enable="true" program="E:\PLSQL Developer\plsqldev.exe" args="" workdirectory="" />
-		<button content="FOXPRO" enable="true" program="E:\Visual Foxpro 7.0\vfp7.exe" args="" workdirectory="" />
 	</group>
-	
 	<group name="开发工具">
 		<button content="VMWARE" enable="true" program="E:\VMware\VMware Workstation\vmware.exe" args="" workdirectory="" />
 		<button content="XSHELL" enable="true" program="E:\NetSarang\Xmanager Enterprise 5\Xshell.exe" args="" workdirectory="" />
@@ -17,11 +11,7 @@
 		<button content="DEPENDS" enable="true" program="E:\Tools\depends\DEPENDS.EXE" args="" workdirectory="" />
 		<button content="UE" enable="true" program="E:\UltraEdit-32\Uedit32.exe" args="" workdirectory="" />
 		<button content="TC" enable="true" program="E:\totalcmd\TOTALCMD.EXE" args="" workdirectory="" />
-  	<button content="HelpCompile" enable="true" program="E:\Tools\HelpCompile_ptms\HelpCompile.exe" args="" workdirectory="" />
-  	<button content="AutoUpdate" enable="true" program="E:\Tools\AutoUpdateV3.0\AutoUpdate.exe" args="" workdirectory="E:\Tools\AutoUpdateV3.0" />
-  	<button content="SQLUpdate" enable="true" program="E:\Tools\SQLUpdateV3.0\SQLUpdate.exe" args="" workdirectory="E:\Tools\SQLUpdateV3.0\" />
 	</group>
-	
 	<group name="工作工具">
 		<button content="WORD" enable="true" program="C:\Program Files\Microsoft Office\Office14\WINWORD.EXE" args="" workdirectory="" />
 		<button content="EXCEL" enable="true" program="C:\Program Files\Microsoft Office\Office14\EXCEL.EXE" args="" workdirectory="" />
@@ -29,37 +19,8 @@
 		<button content="PPT" enable="true" program="C:\Program Files\Microsoft Office\Office14\POWERPNT.EXE" args="" workdirectory="" />
 		<button content="OUTLOOK" enable="true" program="C:\Program Files\Microsoft Office\Office14\OUTLOOK.EXE" args="" workdirectory="" />
 		<button content="ONENOTE" enable="true" program="C:\Program Files\Microsoft Office\Office14\ONENOTE.EXE" args="F:\MyWork\OneNote\工作\集中交易业务.one" workdirectory="" />
-		<button content="gshell" enable="true" program="E:\Hundsun\instance\gshell\bin\HSRCP.exe" args="" workdirectory="" />
-		<button content="金证接入AR" enable="true" program="explorer.exe" args="E:\Hundsun\JZTrans(金证接入AR)" workdirectory="" />
-		<button content="CTP报盘" enable="true" program="explorer.exe" args="E:\Hundsun\PBOXTrans(CTP报盘)" workdirectory="" />
-		<button content="PBOX定时任务" enable="true" program="explorer.exe" args="E:\secu\PBOX\trunk\Sources\PBOX定时任务管理器" workdirectory="" />
-		<button content="HSADMIN(测试)" enable="true" program="E:\Hundsun\HsAdmin_cs\Bin\HSRCP_ADMIN.exe" args="-bizlog" workdirectory="" />
-  	<button content="HSADMIN" enable="true" program="E:\Hundsun\HsAdmin\Bin\HSRCP_ADMIN.exe" args="-bizlog" workdirectory="" />
-  	<button content="HSRCP(UF20)" enable="true" program="E:\Hundsun\HsClient\HSRCP.exe" args="-bizlog -multiapp" workdirectory="" />
-  	<button content="HSSQL" enable="true" program="E:\Hundsun\HSSQL3.0\HSSQL\HSSQL.exe" args="" workdirectory="" />
-  	<button content="HSUCF2.0" enable="true" program="E:\secu\PBOX\trunk\Sources\ClientCom_CSharp\HSUCF2.0\HSUCF2.0.exe" args="" workdirectory="" />
-  	<button content="HSUCF2.0(UAT)" enable="true" program="E:\Hundsun\UAT环境PBOX管理端\HSUCF2.0.exe" args="" workdirectory="" />
-  	<button content="投资赢家(UAT)" enable="true" program="E:\Hundsun\UAT环境PBOX终端\Winner.exe" args="" workdirectory="" />
 	</group>
-	
-	<group name="其他工具">
-		<button content="FOXMAIL" enable="true" program="E:\Foxmail 7.2\Foxmail.exe" args="" workdirectory="" />
-		<button content="微信" enable="true" program="E:\Tencent\WeChat\WeChat.exe" args="" workdirectory="" />
-		<button content="QQ" enable="true" program="E:\Tencent\QQ\Bin\QQScLauncher.exe" args="" workdirectory="" />
-		<button content="钉钉" enable="true" program="C:\Program Files (x86)\DingDing\main\current\DingTalk.exe" args="" workdirectory="" />
-		<button content="CHROME" enable="true" program="C:\Users\shiwei\AppData\Local\Google\Chrome\Application\chrome.exe" args="" workdirectory="" />
-		<button content="华泰专业版(行情)" enable="true" program="E:\htzqzyb2\hexin.exe" args="" workdirectory="" />
-		<button content="华泰专业版(交易)" enable="true" program="E:\htzqzyb2\xiadan.exe" args="" workdirectory="" />
-		<button content="酷狗音乐" enable="true" program="E:\KuGou\KGMusic\KuGou.exe" args="" workdirectory="" />
-		<button content="屏蔽屏保" enable="true" program="C:\Users\shiwei\Desktop\keepdisplayon.exe" args="" workdirectory="" />
-		<button content="万能查找工具" enable="true" program="E:\Tools\Everything\Everything-1.2.1.375b.exe" args="" workdirectory="" />
-	</group>
-	
 	<group name="快捷目录">
 		<button content="PBOX" enable="true" program="explorer.exe" args="E:\secu\PBOX" workdirectory="" />
-  	<button content="PBOX资源" enable="true" program="explorer.exe" args="F:\PBOX系统" workdirectory="" />
-  	<button content="课件" enable="true" program="explorer.exe" args="F:\课件" workdirectory="" />
-  	<button content="MyWork" enable="true" program="explorer.exe" args="F:\MyWork" workdirectory="" />
-  	<button content="还款提醒" enable="true" program="notepad.exe" args="C:\Users\shiwei\Desktop\新建文本文档.txt" workdirectory="" />
 	</group>
 </groups>
